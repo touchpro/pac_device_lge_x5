@@ -1,4 +1,4 @@
-Insert the following into a file called x5.mk in /vendor/aokp/products before building:
+Insert the following into a file called x5.mk in /vendor/pac/products before building:
 
 # Check for target product
 ifeq (pac_x5,$(TARGET_PRODUCT))
